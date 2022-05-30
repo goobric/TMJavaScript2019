@@ -16,6 +16,17 @@ let score;
 score = 10;
 console.log(score);
 
-// const, is abbreviation for constant, it can not be re-assigned and changed
+// const, is abbreviation for constant, it can not be directly re-assigned and changed
 
-const name = "Brad Travsery"
+const namen = "Brad Travsery"
+
+// Primetive Data Types
+// String, Numbers, Boolean, null, undefined, Symbol
+
+const name = 'Brad';
+const age = 30;
+const rating = 4.5;
+const isCool = true;
+const x = null;
+const y = undefined;
+let z; // to initialize
