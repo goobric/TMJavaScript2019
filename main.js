@@ -31,4 +31,8 @@ const x = null;
 const y = undefined;
 let z; // to initialize
 
-console.log(typeof name);
+console.log(typeof name); //age, rating, isCool, x, y, z
+
+// Concatenation
+console.log('My name is and I am age');
+console.log('My name is ' + name + 'and I am ' + age);
