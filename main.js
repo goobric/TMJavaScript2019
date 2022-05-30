@@ -7,10 +7,10 @@ console.warn('This is a warning');
 // let & const were added with ES6
 
 // let, is used for re-assigning values
-let age = 30;
-age = 31;
+let alt = 30;
+alt = 31;
 
-console.log(age);
+console.log(alt);
 
 let score;
 score = 10;
@@ -30,3 +30,5 @@ const isCool = true;
 const x = null;
 const y = undefined;
 let z; // to initialize
+
+console.log(typeof name);
