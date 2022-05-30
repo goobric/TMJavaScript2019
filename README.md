@@ -4,10 +4,10 @@
 
 ### What is JavaScript?
 
-High level, interepreted programming language
+- High level, interepreted programming language
 
-Conforms to the ECMAScript specification
+- Conforms to the ECMAScript specification
 
-Multi-paradigm
+- Multi-paradigm
 
-Runs on the client/browser as well as on the server (Node.js)
+- Runs on the client/browser as well as on the server (Node.js)
